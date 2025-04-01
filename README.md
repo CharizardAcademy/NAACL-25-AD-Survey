@@ -1,5 +1,4 @@
-# 🎧 Audio Description Generation in the Era of LLMs and VLMs  
-**A Review of Transferable Generative AI Technologies**  
+# 🎧 Audio Description Generation in the Era of LLMs and VLMs: A Review of Transferable Generative AI Technologies  
 NAACL 2025 Findings Paper | [📄 PDF](link-to-paper)  
 
 Authors: Yingqiang Gao, Lukas Fischer, Alexa Lintner, Sarah Ebling  
