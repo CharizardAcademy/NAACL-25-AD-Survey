@@ -1,9 +1,9 @@
-# Audio Description Generation in the Era of LLMs and VLMs: A Review of Transferable Generative AI Technologies  
-NAACL 2025 Findings Paper | [📄 PDF](link-to-paper)  
-
-Authors: Yingqiang Gao, Lukas Fischer, Alexa Lintner, Sarah Ebling  
+Authors: Yingqiang Gao, Lukas Fischer, Alexa Lintner, Sarah Ebling 
+Affiliation: University of Zurich, Zurich University of Applied Sciences
 Contact: yingqiang.gao@cl.uzh.ch  
-GitHub: https://github.com/CharizardAcademy/NAACL-25-AD-Survey  
+GitHub: https://github.com/CharizardAcademy/NAACL-25-AD-Survey
+
+Please submit an Issue or drop Yingqiang an email if you would like your work to be listed here.  
 
 ---
 
@@ -21,9 +21,9 @@ This repository provides a categorized collection of papers reviewed in our NAAC
 These works tackle the challenge of generating rich, coherent captions from video content. We divide them into:
 
 ### 🔍 Visual Feature Extraction (VFE)
-| Paper | Venue | Model Highlights |
+| Paper | Venue | Method \| Dataset |
 |-------|-------|------------------|
-| Yun and Ro (2024) | CVPR’24 | Vanilla ViT |
+| [Yun and Ro (2024)](https://openaccess.thecvf.com/content/CVPR2024/papers/Yun_SHViT_Single-Head_Vision_Transformer_with_Memory_Efficient_Macro_Design_CVPR_2024_paper.pdf) | CVPR’24 | Vanilla ViT |
 | Hassani et al. (2023) | CVPR’23 | Swin Transformer |
 | Chen et al. (2023) | ICCV’23 | EfficientViT |
 | Liu et al. (2023) | CVPR’23 | EfficientViT |
