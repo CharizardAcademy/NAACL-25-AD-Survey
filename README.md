@@ -1,8 +1,10 @@
 Authors: Yingqiang Gao, Lukas Fischer, Alexa Lintner, Sarah Ebling 
+
 Affiliation: University of Zurich, Zurich University of Applied Sciences
+
 Contact: yingqiang.gao@cl.uzh.ch  
 
-Please submit an Issue or drop an email if you would like your work to be listed here.  
+Please submit an Issue if you would like your work to be listed here. 
 
 ---
 
